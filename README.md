@@ -94,5 +94,3 @@ Developed an interactive dashboard to visualize:
 ✅ Understood how to derive actionable insights from raw, messy data  
 
 ---
-
-### 🗂️ Project Structure  
